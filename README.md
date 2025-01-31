@@ -1,14 +1,16 @@
 <p align="center">
   <a>
-    <img src="https://media.giphy.com/media/lLfjuL3xq9H7OPX430/giphy.gif" alt="Banner">
+    <img hight="200" width="200" alt="GIF" align="left" src="https://media.giphy.com/media/lLfjuL3xq9H7OPX430/giphy.gif" alt="Banner">
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Rudra Verma aka Dazai Twelve</a>!</h1>
+<h1 align="center">Hi, I'm Rudra Verma aka Dazai Twelve</a></h1>
 
 <h3 align="center">Welcome to my GitHub profile :3</h3>
-
-# About ME 💬 :
+</br>
+</br></br>
+</br>
+<h3 aign="center"> # About ME 💬 :</h3>
 
 ### - I'm 20 years old CyberSecurity & Artificial Intelligence Enthusiast from India.
 
@@ -17,6 +19,7 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Generative Adversarial Networks
+- ✨ Trying CISSP
 
 ### - Hobbies : 
 - ✨ Gaming Addict
