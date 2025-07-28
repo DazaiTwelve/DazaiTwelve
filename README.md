@@ -28,16 +28,6 @@
 - ✨ Hardware Romantizer
 </br>
 </br>
-### 🧠 About Me
-
-- 🎓 I'm currently pursuing **B.Tech in Computer Science (AI)**  
-- 📈 Consistent scholar with a CGPA of **9.12**, strong foundation in **DSA, ML, and AI**
-- 🤖 Passionate about **AI/ML**, NLP, deep learning, and building real-world impactful projects
-- 👨‍💻 Projects include:
-  - 🧭 Web Browser using Python  
-  - 📸 Attendance System in Java  
-  - 🛡️ SafetyGuard – AI-Powered Women’s Safety Platform    
-- 📚 Currently learning: **Deep Learning Specialization (Coursera)** & advanced DSA
 
 ---
 
