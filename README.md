@@ -54,7 +54,7 @@
 </p>
 
 - 🤖 Deep Learning, CNNs, RNNs (LSTM/GRU), NLP  
-- 💡 Building AI-powered applications: Sign Language Interpreter, Safety apps, Chatbots
+- 💡 Building AI-powered applications
 
 ---
 <p align="center">
